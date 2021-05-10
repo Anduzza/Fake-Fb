@@ -1,0 +1,115 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif; */
+
+body {
+    font-family: 'Roboto', sans-serif;
+} 
+
+.container-fluid {
+    padding: 0;
+}
+
+.profile-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.profile-menu {
+    text-align: left;
+}
+
+.profile-list {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.list-items {
+    margin: 0;
+}
+
+.explore {
+    padding-left: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+.name {
+    color: plum;
+    font-size: larger;
+}
+
+.post-img {
+    width: 500px;
+    height: 350px;
+}
+
+hr {
+    border-color: black;
+}
+
+.friend {
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+
+}
+
+table tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+
+.friend-name {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.new-post {
+    text-align: center;
+}
+
+.post-img {
+    padding-bottom: 20px;
+}
+.row {
+    padding-top: 20px;
+}
+
+.see-more {
+    font-weight: lighter;
+    font-size: 10px;
+}
+
+#more {
+    color: grey;
+}
+
+.name-fr {
+    font-size: larger;
+}
+
+.space {
+    margin-left: 60px;
+}
+
+.nav-color {
+    background-color: #4e89ae;
+}
+
+.btn-color {
+    background-color: #e3dfc8;
+    color: #00416d;
+}
+
+.fa-color {
+    color: #4e89ae;
+}
